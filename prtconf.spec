@@ -8,6 +8,7 @@ Source0:	ftp://sunsite.mff.cuni.cz/OS/Linux/Sparc/local/prtconf/%{name}-%{versio
 Patch0:		prtconf-1.3.patch.bz2
 URL:		http://ultra.linux.cz/
 ExclusiveArch:	%{sunsparc}
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 A set of utilities to dump OpenPROM device tree and to query
