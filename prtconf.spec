@@ -1,7 +1,7 @@
 Summary:	SPARC OpenPROM dump utility
 Name:		prtconf
 Version:	1.3
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		System/Kernel and hardware
 Source0:	ftp://sunsite.mff.cuni.cz/OS/Linux/Sparc/local/prtconf/%{name}-%{version}.tar.bz2
