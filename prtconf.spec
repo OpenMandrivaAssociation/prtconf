@@ -6,7 +6,7 @@ License:	GPL
 Group:		System/Kernel and hardware
 Source0:	ftp://sunsite.mff.cuni.cz/OS/Linux/Sparc/local/prtconf/%{name}-%{version}.tar.bz2
 Patch0:		prtconf-1.3.patch.bz2
-URL:		http://ultra.linux.cz/
+URL:		https://ultra.linux.cz/
 ExclusiveArch:	%{sunsparc}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
