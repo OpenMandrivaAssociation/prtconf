@@ -10,6 +10,7 @@ URL:		https://ultra.linux.cz/
 ExclusiveArch:	%{sunsparc}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
+BuildRequires:	make
 %description
 A set of utilities to dump OpenPROM device tree and to query
 and/or modify OpenPROM options.
